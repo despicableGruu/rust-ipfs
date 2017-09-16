@@ -1,8 +1,7 @@
 [package]
 name = "ipfs-api"
 version = "0.1.4"
-authors = ["rmnoff <romanov.spb.alex@yandex.ru>"]
-
+authors = ["Brandon Richardson <brandon.richardson4328@outlook.com>"]
 [dependencies]
 curl = "*"
 json = "*"
